@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.mpy
+*.bin
+*.uf2
+.vscode/
+.idea/
